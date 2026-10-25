@@ -1,6 +1,6 @@
 # 🛡️  AN TOÀN VÀ BẢO MẬT THÔNG TIN
 
-* **Sinh viên thực hiện:** Trần Hoàng Xuân Vũ
+* **Sinh viên:** Trần Hoàng Xuân Vũ
 * **Mã số sinh viên (MSSV):** K235480106080
 * **Lớp / Chuyên ngành:** Kỹ thuật Máy tính (TNUT)
 * **Công nghệ sử dụng:** C# WPF (.NET 8.0 / .NET 10.0), System.Security.Cryptography
