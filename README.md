@@ -1,4 +1,4 @@
-# 🛡️ ĐỒ ÁN MÔN HỌC: AN TOÀN VÀ BẢO MẬT THÔNG TIN
+# 🛡️  AN TOÀN VÀ BẢO MẬT THÔNG TIN
 
 * **Sinh viên thực hiện:** Trần Hoàng Xuân Vũ
 * **Mã số sinh viên (MSSV):** K235480106080
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 TỔNG QUAN DỰ ÁN
+## 📌 TỔNG QUAN BÀI TẬP
 
 Kho lưu trữ **`BT_ATBM2_TNUT`** chứa trọn bộ mã nguồn và báo cáo thử nghiệm của 2 bài tập lớn môn **An toàn và Bảo mật thông tin**:
 
