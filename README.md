@@ -74,7 +74,24 @@ Kho lưu trữ **`BT_ATBM2_TNUT`** chứa trọn bộ mã nguồn và báo cáo 
 ---
 
 ## 📁 CẤU TRÚC KHO LƯU TRỮ (REPOSITORY STRUCTURE)
+Bài 1: 
 
+<img width="1918" height="1009" alt="image" src="https://github.com/user-attachments/assets/c494dbbf-f066-479a-840b-e42a25edb9fa" />
+
+<img width="1918" height="1005" alt="image" src="https://github.com/user-attachments/assets/b22373bb-b31b-4845-9b3e-83e079030244" />
+
+
+<img width="1918" height="978" alt="image" src="https://github.com/user-attachments/assets/acb913a4-314e-4e98-9cab-dc1a1ecee0e2" />
+
+
+<img width="1911" height="1005" alt="image" src="https://github.com/user-attachments/assets/5d4a224b-6858-42a6-9937-10090a06f6b9" />
+
+
+<img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/ec016084-04e5-4ff2-a4f8-30090b64440a" />
+
+
+
+Bài 2:
 <img width="1915" height="963" alt="dd2a311e-7dcc-45fb-bf4d-9ad7a08c0e8e" src="https://github.com/user-attachments/assets/75a660d9-0a08-4e55-84ea-0fcaa6b1bb55" />
 
 <img width="1918" height="973" alt="b6eb9201-ff91-4645-9432-91b3a6ed0e63" src="https://github.com/user-attachments/assets/1cb15ff0-acb9-4379-9308-298276921b3f" />
