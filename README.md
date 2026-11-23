@@ -75,6 +75,21 @@ Kho lưu trữ **`BT_ATBM2_TNUT`** chứa trọn bộ mã nguồn và báo cáo 
 
 ## 📁 CẤU TRÚC KHO LƯU TRỮ (REPOSITORY STRUCTURE)
 
+<img width="1915" height="963" alt="dd2a311e-7dcc-45fb-bf4d-9ad7a08c0e8e" src="https://github.com/user-attachments/assets/75a660d9-0a08-4e55-84ea-0fcaa6b1bb55" />
+
+<img width="1918" height="973" alt="b6eb9201-ff91-4645-9432-91b3a6ed0e63" src="https://github.com/user-attachments/assets/1cb15ff0-acb9-4379-9308-298276921b3f" />
+
+<img width="1918" height="973" alt="202e2b48-9141-4303-a58d-cc1df34c1444" src="https://github.com/user-attachments/assets/ca843c3f-58b8-4d99-8657-862dbba62ce0" />
+
+<img width="1918" height="982" alt="d1c68d73-6ee9-4ecd-9200-ce3c692f9618" src="https://github.com/user-attachments/assets/d679d7dc-49dd-4598-9edc-6b3bcf8e6c95" />
+
+<img width="1918" height="982" alt="94607f86-e1b6-4ec5-8562-8017077b4c7e" src="https://github.com/user-attachments/assets/e192f7cd-8b61-4520-8271-8cb5bf4d0bd5" />
+
+
+<img width="1918" height="976" alt="0657c642-c63c-4966-964e-bc4521d3016f" src="https://github.com/user-attachments/assets/4d0732da-95ea-451d-b65d-64fb5409cde0" />
+
+
+
 ```text
 BT_ATBM2_TNUT/
 ├── BaiTap1_AES/                  # Dự án Bài 1 (Mã hóa AES-256 WPF)
@@ -86,3 +101,6 @@ BT_ATBM2_TNUT/
 │   ├── MainWindow.xaml.cs        # Xử lý RSA, ASN.1, SHA-256 & RSASSA-PSS
 │   └── BaiTap2_RSA.csproj
 └── README.md                     # Báo cáo tổng hợp dự án
+
+
+
